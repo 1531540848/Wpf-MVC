@@ -1,0 +1,17 @@
+E:\source\WPF\WPFMVC\WPFBLL\bin\Debug\net8.0-windows\WPFBLL.deps.json
+E:\source\WPF\WPFMVC\WPFBLL\bin\Debug\net8.0-windows\WPFBLL.dll
+E:\source\WPF\WPFMVC\WPFBLL\bin\Debug\net8.0-windows\WPFBLL.pdb
+E:\source\WPF\WPFMVC\WPFBLL\bin\Debug\net8.0-windows\WPFDAL.dll
+E:\source\WPF\WPFMVC\WPFBLL\bin\Debug\net8.0-windows\WPFMODEL.dll
+E:\source\WPF\WPFMVC\WPFBLL\bin\Debug\net8.0-windows\WPFDAL.pdb
+E:\source\WPF\WPFMVC\WPFBLL\bin\Debug\net8.0-windows\WPFMODEL.pdb
+E:\source\WPF\WPFMVC\WPFBLL\obj\Debug\net8.0-windows\WPFBLL.csproj.AssemblyReference.cache
+E:\source\WPF\WPFMVC\WPFBLL\obj\Debug\net8.0-windows\WPFBLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\WPF\WPFMVC\WPFBLL\obj\Debug\net8.0-windows\WPFBLL.AssemblyInfoInputs.cache
+E:\source\WPF\WPFMVC\WPFBLL\obj\Debug\net8.0-windows\WPFBLL.AssemblyInfo.cs
+E:\source\WPF\WPFMVC\WPFBLL\obj\Debug\net8.0-windows\WPFBLL.csproj.CoreCompileInputs.cache
+E:\source\WPF\WPFMVC\WPFBLL\obj\Debug\net8.0-windows\WPFBLL.csproj.Up2Date
+E:\source\WPF\WPFMVC\WPFBLL\obj\Debug\net8.0-windows\WPFBLL.dll
+E:\source\WPF\WPFMVC\WPFBLL\obj\Debug\net8.0-windows\refint\WPFBLL.dll
+E:\source\WPF\WPFMVC\WPFBLL\obj\Debug\net8.0-windows\WPFBLL.pdb
+E:\source\WPF\WPFMVC\WPFBLL\obj\Debug\net8.0-windows\ref\WPFBLL.dll

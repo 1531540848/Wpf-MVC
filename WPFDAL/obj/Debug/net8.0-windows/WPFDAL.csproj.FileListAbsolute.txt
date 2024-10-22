@@ -1,0 +1,17 @@
+E:\source\WPF\WPFMVC\WPFDAL\bin\Debug\net8.0-windows\WPFDAL.deps.json
+E:\source\WPF\WPFMVC\WPFDAL\bin\Debug\net8.0-windows\WPFDAL.runtimeconfig.json
+E:\source\WPF\WPFMVC\WPFDAL\bin\Debug\net8.0-windows\WPFDAL.dll
+E:\source\WPF\WPFMVC\WPFDAL\bin\Debug\net8.0-windows\WPFDAL.pdb
+E:\source\WPF\WPFMVC\WPFDAL\bin\Debug\net8.0-windows\WPFMODEL.dll
+E:\source\WPF\WPFMVC\WPFDAL\bin\Debug\net8.0-windows\WPFMODEL.pdb
+E:\source\WPF\WPFMVC\WPFDAL\obj\Debug\net8.0-windows\WPFDAL.csproj.AssemblyReference.cache
+E:\source\WPF\WPFMVC\WPFDAL\obj\Debug\net8.0-windows\WPFDAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\WPF\WPFMVC\WPFDAL\obj\Debug\net8.0-windows\WPFDAL.AssemblyInfoInputs.cache
+E:\source\WPF\WPFMVC\WPFDAL\obj\Debug\net8.0-windows\WPFDAL.AssemblyInfo.cs
+E:\source\WPF\WPFMVC\WPFDAL\obj\Debug\net8.0-windows\WPFDAL.csproj.CoreCompileInputs.cache
+E:\source\WPF\WPFMVC\WPFDAL\obj\Debug\net8.0-windows\WPFDAL.csproj.Up2Date
+E:\source\WPF\WPFMVC\WPFDAL\obj\Debug\net8.0-windows\WPFDAL.dll
+E:\source\WPF\WPFMVC\WPFDAL\obj\Debug\net8.0-windows\refint\WPFDAL.dll
+E:\source\WPF\WPFMVC\WPFDAL\obj\Debug\net8.0-windows\WPFDAL.pdb
+E:\source\WPF\WPFMVC\WPFDAL\obj\Debug\net8.0-windows\WPFDAL.genruntimeconfig.cache
+E:\source\WPF\WPFMVC\WPFDAL\obj\Debug\net8.0-windows\ref\WPFDAL.dll

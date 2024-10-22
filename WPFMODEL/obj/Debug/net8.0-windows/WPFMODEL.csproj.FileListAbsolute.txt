@@ -1,0 +1,11 @@
+E:\source\WPF\WPFMVC\WPFMODEL\bin\Debug\net8.0-windows\WPFMODEL.deps.json
+E:\source\WPF\WPFMVC\WPFMODEL\bin\Debug\net8.0-windows\WPFMODEL.dll
+E:\source\WPF\WPFMVC\WPFMODEL\bin\Debug\net8.0-windows\WPFMODEL.pdb
+E:\source\WPF\WPFMVC\WPFMODEL\obj\Debug\net8.0-windows\WPFMODEL.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\WPF\WPFMVC\WPFMODEL\obj\Debug\net8.0-windows\WPFMODEL.AssemblyInfoInputs.cache
+E:\source\WPF\WPFMVC\WPFMODEL\obj\Debug\net8.0-windows\WPFMODEL.AssemblyInfo.cs
+E:\source\WPF\WPFMVC\WPFMODEL\obj\Debug\net8.0-windows\WPFMODEL.csproj.CoreCompileInputs.cache
+E:\source\WPF\WPFMVC\WPFMODEL\obj\Debug\net8.0-windows\WPFMODEL.dll
+E:\source\WPF\WPFMVC\WPFMODEL\obj\Debug\net8.0-windows\refint\WPFMODEL.dll
+E:\source\WPF\WPFMVC\WPFMODEL\obj\Debug\net8.0-windows\WPFMODEL.pdb
+E:\source\WPF\WPFMVC\WPFMODEL\obj\Debug\net8.0-windows\ref\WPFMODEL.dll
